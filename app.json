@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-ts-firebase-googleauth-starter",
-    "slug": "expo-ts-firebase-googleauth-starter",
+    "name": "expo-ts-gcp-starter",
+    "slug": "expo-ts-gcp-starter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
